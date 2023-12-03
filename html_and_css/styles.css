@@ -1,0 +1,33 @@
+body{
+    background-color: #bebebe;
+    color: #231a0c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    padding: 0;
+    margin: 0;
+    
+}
+
+p{
+    font-size: 16px;
+    color: green;
+}
+
+table{
+    width: 85%;
+    border-radius: 50%;
+    margin: 12px;
+    padding: 8px;
+    text-transform: capitalize;
+}
+
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 16px 23px;
+    padding: 12px;
+}
+
+h1{
+    color: #83ff06
+}
+
