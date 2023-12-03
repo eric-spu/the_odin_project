@@ -1,33 +1,44 @@
-body{
-    background-color: #bebebe;
-    color: #231a0c;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 12px;
-    padding: 0;
-    margin: 0;
-    
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
 }
 
-p{
-    font-size: 16px;
-    color: green;
+h1, h2, h3, h4, h5, h6 {
+    color: #341b1b;
 }
 
-table{
-    width: 85%;
-    border-radius: 50%;
-    margin: 12px;
-    padding: 8px;
-    text-transform: capitalize;
+p {
+    line-height: 1.6;
+    color: #804040;
+    font-family: 'Courier New', Courier, monospace;
 }
 
-ul{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 16px 23px;
-    padding: 12px;
+strong {
+    font-weight: bold;
+    color: #007bff;
 }
 
-h1{
-    color: #83ff06
+ul, ol {
+    margin-left: 20px;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Add more styles as needed */
 
