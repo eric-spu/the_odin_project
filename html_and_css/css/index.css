@@ -28,3 +28,33 @@ div p{
     background-color: hsl(120, 100%, 75%);
     font-weight: bold;
   }
+
+  .click, no-click{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Romans", sans-serif;
+
+  }
+
+  .click{
+    background-color: #000000;
+    color: #ffffff;
+  }
+ 
+  .no-click{
+    background-color: #ffff00 ;
+  }
+
+  /*
+  .btn{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+  }
+
+  .btn{
+    background-color: #000000;
+    color: #ffff;
+  }
+
+  .btn2-right{
+    background-color: #ffff00;
+  }  */
