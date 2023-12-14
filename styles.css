@@ -1,19 +1,13 @@
-*{
-    padding: 0;
-    margin: 0;
-    border: 2px solid #f60000;
-}
-
-div{
-    text-transform: uppercase;
+body {
+    font-family: system-ui;
+    background: #b6560d;
+    color: white;
     text-align: center;
-}
+  }
 
-.box{
-    background-color: yellow;
-    width: 200px;
-    height: 200px;
-    border: 12px solid #000000;
-    padding: 30px;
-    margin: 10px;
-}
+  h1{
+    padding: 50px;
+    margin: 12px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+  }
